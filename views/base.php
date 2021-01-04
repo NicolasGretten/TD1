@@ -13,7 +13,7 @@
             <ul>
                 <li><a href="/">Accueil</a></li>
                 <li><a href="/?controller=blog">Blog</a></li>
-                <li><a href="/?controller=shop">Shops</a></li>
+                <li><a href="/?controller=shop">Shop</a></li>
             </ul>
         </nav>
     </header>
